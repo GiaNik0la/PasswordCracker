@@ -33,5 +33,5 @@ document.write(f"""{str(crack)}
 document.close()
 for i in crack: print(f"{crack}", " ")
 
-    
+# plz kill me
     
